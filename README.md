@@ -1,4 +1,4 @@
-# Virtual-Music-Keyboard
+# Paper-Piano
 ## Intro
 A Virtual Music Keyboard has been designed and programmed using two cameras and hand landmarks detection models. This program consist of two modes:
 
