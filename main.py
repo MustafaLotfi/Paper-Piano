@@ -1,5 +1,5 @@
 """
-Project name: Virtual Music Keyboard
+Project name: Paper-Piano
 Programmer: Mostafa Lotfi
 Date: 1/1/2023
 Brief Description: A Virtual Music Keyboard has been designed and programmed
