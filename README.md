@@ -1,10 +1,12 @@
 # Virtual-Music-Keyboard
 ## Intro
 A Virtual Music Keyboard has been designed and programmed using two cameras and hand landmarks detection models. This program consist of two modes:
-Mode 1) Music Control (MC):
+
+**Music Control (MC) mode:**
 Using the hand gesture, you can start to play the music or stop it,
 increase or decrese the volume or go to the next song. 
-Mode 2) Paper Piano (2P):
+
+**Paper Piano (2P) mode:**
 You can play your custome song by the piano keys.
 
 This is necessary to mention that after the project idea came to my mind,
@@ -19,9 +21,9 @@ the codes if you want.
   <video src="https://github.com/MustafaLotfi/Virtual-Music-Keyboard/blob/main/files/demo/1.mp4">
 </div>
 
-## More details:
+## More Details:
 Firstly hand landmarks in both of the images of cameras are detected.
-In the CM mode, by your hand gesture or its movement you can control the app.
+In the MC mode, by your hand gesture or its movement you can control the app.
 This part has been implemented using distances between various hand landmarks and
 the their movement speeds. Information from to images are processed together in
 each moment and will be used for a desired action.
