@@ -49,6 +49,7 @@ if the top camera change a little, the app will fail to work correctly.
 2. Create virutal environment, activate it, install packages:
 `pip install -r requirements.txt`
 
-3. Make sure both of cameras are working correctly. You can use check_cameras.py.
+3. Make sure both of cameras are working correctly. You can use `check_cameras.py`
+in `codes` folder.
 
-4. run main.py.
+4. run `main.py`.
