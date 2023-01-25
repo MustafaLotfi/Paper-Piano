@@ -39,7 +39,7 @@ It is possible that you move your hand randomly and the app do a non-desired act
 2. Not being optimal:
 Because of low time dedication to the app, absolutely the functions aren't the
 best ones.
-3. Week method to detect piano key lines:
+3. Weak method to detect piano key lines:
 The fact is I have not implemented any method to detect lines of paino keys
 at all. I considered threshold boundaries in the image. It's better to use
 methods such as Canny Edge Detector to find the keys. Because of this poor method,
