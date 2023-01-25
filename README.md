@@ -20,7 +20,7 @@ the codes if you want.
 
 https://user-images.githubusercontent.com/53625380/214583911-ccb8c06c-a029-486d-b24f-24f81e22ec19.mp4
 
-I don't know why, but you should go to the second 10 or more to watch the demo.
+I don't know why, but you should go to the second 10 or more to watch the demo. Also don't forget to unmute the video.
 
 ## More Details:
 Firstly hand landmarks in both of the images of cameras are detected.
