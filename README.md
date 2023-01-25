@@ -17,9 +17,8 @@ the codes if you want.
 
 
 ## Demo
-<div align="left">
-  <video src="https://github.com/MustafaLotfi/Virtual-Music-Keyboard/blob/main/files/demo/1.mp4">
-</div>
+
+https://github.com/MustafaLotfi/Paper-Piano/blob/main/files/demo/demo.mp4
 
 ## More Details:
 Firstly hand landmarks in both of the images of cameras are detected.
