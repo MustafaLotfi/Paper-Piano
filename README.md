@@ -18,7 +18,8 @@ the codes if you want.
 
 ## Demo
 
-https://github.com/MustafaLotfi/Paper-Piano/blob/main/files/demo/demo.mp4
+https://user-images.githubusercontent.com/53625380/214583911-ccb8c06c-a029-486d-b24f-24f81e22ec19.mp4
+
 
 ## More Details:
 Firstly hand landmarks in both of the images of cameras are detected.
