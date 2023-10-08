@@ -401,7 +401,7 @@ class VirtualMusic():
 				if (self.hands0["left"][MAIN_POINTS[1], 0] < \
 					self.hands0["left"][MAIN_POINTS[-1], 0]) and (
 					self.hands0["right"][MAIN_POINTS[-1], 0] \
-					< self.hands0["right"][MAIN_POINTS[1], 0])and \
+					< self.hands0["right"][MAIN_POINTS[1], 0]) and \
 					((self.hands0["left"][MAIN_POINTS[0], 1] - self.hands0[
 						"left"][MAIN_POINTS[2], 1]) >  self. \
 					change_mode_threshold) and ((self.hands0["right"][
