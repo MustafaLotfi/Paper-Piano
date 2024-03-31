@@ -16,7 +16,7 @@ executing==1.2.0
 flatbuffers==22.12.6
 fonttools==4.43.0
 idna==3.4
-ipython==8.7.0
+ipython==8.10.0
 jedi==0.18.2
 joblib==1.2.0
 kiwisolver==1.4.4
