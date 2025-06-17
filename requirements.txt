@@ -35,7 +35,7 @@ pickleshare==0.7.5
 Pillow==10.3.0
 pooch==1.6.0
 prompt-toolkit==3.0.36
-protobuf==3.20.3
+protobuf==4.25.8
 psutil==5.9.4
 pure-eval==0.2.2
 pycaw==20220416
