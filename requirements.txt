@@ -14,7 +14,7 @@ cycler==0.11.0
 decorator==5.1.1
 executing==1.2.0
 flatbuffers==22.12.6
-fonttools==4.43.0
+fonttools==4.61.0
 idna==3.7
 ipython==8.10.0
 jedi==0.18.2
@@ -53,5 +53,5 @@ soundfile==0.11.0
 stack-data==0.6.2
 threadpoolctl==3.1.0
 traitlets==5.8.0
-urllib3==2.5.0
+urllib3==2.6.0
 wcwidth==0.2.5
