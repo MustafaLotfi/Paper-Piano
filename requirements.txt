@@ -35,7 +35,7 @@ pickleshare==0.7.5
 Pillow==10.3.0
 pooch==1.6.0
 prompt-toolkit==3.0.36
-protobuf==4.25.8
+protobuf==5.29.6
 psutil==5.9.4
 pure-eval==0.2.2
 pycaw==20220416
@@ -53,5 +53,5 @@ soundfile==0.11.0
 stack-data==0.6.2
 threadpoolctl==3.1.0
 traitlets==5.8.0
-urllib3==2.6.0
+urllib3==2.6.3
 wcwidth==0.2.5
