@@ -32,7 +32,7 @@ opencv-python==4.8.1.78
 packaging==22.0
 parso==0.8.3
 pickleshare==0.7.5
-Pillow==10.3.0
+Pillow==12.1.1
 pooch==1.6.0
 prompt-toolkit==3.0.36
 protobuf==5.29.6
